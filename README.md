@@ -3,7 +3,7 @@
 
 🛠 What i do:
 
-* Net Core, Laravel, Vue
+* Net Core, Golang, Laravel, Vue
 * Kafka, Redis, RabbitMQ, SQL, NoSQL
 * Elastic Search Stack, Docker
 * SMTP protocol, CI/CD
